@@ -20,7 +20,7 @@ export function Footer() {
             <div className="flex space-x-4">
               <div className="flex items-center space-x-2 text-sm">
                 <Phone className="h-4 w-4 text-green-400" />
-                <span>+254 700 000 000</span>
+                <span>+254 745 173 050</span>
               </div>
             </div>
           </div>
@@ -46,8 +46,6 @@ export function Footer() {
               <li><a href="#" className="hover:text-green-400 transition-colors">Logistics Support</a></li>
             </ul>
           </div>
-
-          {/* Markets */}
           <div>
             <h3 className="font-semibold mb-4">Our Markets</h3>
             <ul className="space-y-2 text-gray-400">
@@ -70,7 +68,6 @@ export function Footer() {
             </ul>
           </div>
         </div>
-
         <Separator className="my-8 bg-gray-700" />
 
         <div className="flex flex-col md:flex-row justify-between items-center">
