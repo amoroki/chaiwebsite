@@ -97,8 +97,8 @@ export function ContactSection() {
                   <Phone className="h-6 w-6 text-green-600 mt-1" />
                   <div>
                     <h4 className="font-medium">Phone</h4>
-                    <p className="text-gray-600">+254 700 000 000</p>
-                    <p className="text-gray-600">+254 711 000 000</p>
+                    <p className="text-gray-600">+254 104 173 050</p>
+                    <p className="text-gray-600">+254 745 173 050</p>
                   </div>
                 </div>
                 
@@ -108,6 +108,7 @@ export function ContactSection() {
                     <h4 className="font-medium">Email</h4>
                     <p className="text-gray-600">info@chaitrade.co.ke</p>
                     <p className="text-gray-600">exports@chaitrade.co.ke</p>
+                    <p className="text-gray-600">chaikenyatrade@gmail.com</p>
                   </div>
                 </div>
                 

@@ -187,7 +187,7 @@ export function SampleRequestModal({ children }: SampleRequestModalProps) {
                 <label className="block text-sm font-medium mb-2">Phone</label>
                 <Input 
                   type="tel" 
-                  placeholder="+1 234 567 8900" 
+                  placeholder="+254 104 173 050" 
                   value={formData.phone}
                   onChange={(e) => handleInputChange('phone', e.target.value)}
                 />
